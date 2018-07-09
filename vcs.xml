@@ -34,6 +34,10 @@
           <option name="url" value="http://github.com/esmagulbass/deneme.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/esmagulbass/blood.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\TCEGULBAS\AndroidStudioProjects\NewApp\newApp" />
